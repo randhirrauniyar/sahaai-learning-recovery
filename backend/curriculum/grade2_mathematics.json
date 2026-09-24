@@ -1,0 +1,82 @@
+{
+  "grade": "Grade 2",
+  "subject": "Mathematics",
+  "lessons": [
+    {
+      "lesson": "Counting to 100",
+      "concepts": [
+        "Counting sequentially from 1 to 100",
+        "Recognizing numbers from 1 to 100",
+        "Skip-counting by 10s",
+        "Identifying number patterns"
+      ],
+      "prerequisites": [
+        "Counting objects up to 20",
+        "Recognizing single-digit numbers",
+        "Recognizing double-digit numbers"
+      ],
+      "learning_objectives": [
+        "Count numbers sequentially from 1 to 100",
+        "Identify missing numbers in a sequence",
+        "Count forward by 10s",
+        "Recognize simple patterns in a 100-chart"
+      ],
+      "activities": [
+        "Count aloud from 1 to 100",
+        "Use a 100-chart to identify number patterns",
+        "Fill missing numbers in sequences",
+        "Practice counting by 10s"
+      ]
+    },
+    {
+      "lesson": "Addition within 20",
+      "concepts": [
+        "Understanding addition as combining quantities",
+        "Adding numbers within 20",
+        "Using number lines for addition",
+        "Solving simple addition problems"
+      ],
+      "prerequisites": [
+        "Recognizing numbers up to 20",
+        "Counting objects",
+        "Understanding more and less"
+      ],
+      "learning_objectives": [
+        "Add two numbers with a total up to 20",
+        "Represent addition using objects or drawings",
+        "Use a number line to solve addition problems"
+      ],
+      "activities": [
+        "Combine groups of objects",
+        "Use a number line",
+        "Solve simple addition equations",
+        "Explain an addition answer using objects"
+      ]
+    },
+    {
+      "lesson": "Subtraction within 20",
+      "concepts": [
+        "Understanding subtraction as taking away",
+        "Subtracting numbers within 20",
+        "Using number lines for subtraction",
+        "Solving simple subtraction problems"
+      ],
+      "prerequisites": [
+        "Recognizing numbers up to 20",
+        "Counting objects",
+        "Understanding addition"
+      ],
+      "learning_objectives": [
+        "Subtract numbers within 20",
+        "Represent subtraction using objects",
+        "Use a number line to solve subtraction problems"
+      ],
+      "activities": [
+        "Remove objects from a group",
+        "Use a number line",
+        "Solve subtraction equations",
+        "Explain the subtraction process"
+      ]
+    }
+  ]
+}
